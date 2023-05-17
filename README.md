@@ -20,7 +20,7 @@ vii)CSS: The styling language used for customizing the appearance of the compone
 
 Installation and Setup
 i)Clone the project repository from GitHub: <repository_url>
-ii)Navigate to the project directory: cd win-servicescontact-us-form
+ii)Navigate to the project directory: cd contactus-form
 iii)Install the dependencies: npm install
 iv)Start the development server: npm start
 v)Access the application in a web browser at http://localhost:3000
