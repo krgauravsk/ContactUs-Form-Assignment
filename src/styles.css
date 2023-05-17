@@ -1,0 +1,52 @@
+.title {
+  font-family: "Axiforma";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 25px;
+  line-height: 160%;
+  color: #000000;
+}
+.subtitle {
+  font-family: "Axiforma";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 160%;
+  color: #1d2b4f;
+  padding: 20px 0 5px 0;
+}
+.text-no {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+  color: #000000;
+}
+.card-container {
+  padding: 50px;
+  max-width: 458px;
+  background: #fafafa;
+  border-radius: 20px;
+}
+.App {
+  display: flex;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  min-height: 200px;
+  width: 90vw;
+  margin: 100px auto;
+  background: white;
+  border-radius: 5px;
+}
+.button {
+  background: #005981;
+  border-radius: 10px;
+}
